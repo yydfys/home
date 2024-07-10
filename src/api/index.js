@@ -1,9 +1,6 @@
 // import axios from "axios";
 import fetchJsonp from "fetch-jsonp";
 
-/**
- * 音乐播放器
- */
 
 // 获取音乐播放列表
 export const getPlayerList = async (server, type, id) => {
